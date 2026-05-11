@@ -1,6 +1,9 @@
 # LegMonitor
 Scripts for monitoring leg movements in Drosophila pupae
 
+<p align="center">
+  <img src="images/Imagen3.png" width="500">
+</p>
 
 # LegM: Pupal Movement Monitor
 
